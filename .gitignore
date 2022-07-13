@@ -1,0 +1,5 @@
+# Ignore the raw CSV file with aircraft movements.
+/data/23100008.CSV
+
+# Ignore the raw CSV file with airport codes.
+/data/Airports_Aeroports.csv

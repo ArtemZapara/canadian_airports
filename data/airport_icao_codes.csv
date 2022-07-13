@@ -1,0 +1,48 @@
+Airport,ICAO_OACI,TC_ID,IATA,AIRPORT_T,AÉROPORT_T,TYPE_CODE,AIRPORT_AÉROPORT,CITY_VILLE,PROVINCE_EN,PROVINCE_FR,LATTITUDE,LONGITUDE
+"Abbotsford, British Columbia",CYXX,176,YXX,Control Tower,Tour de contrôle,1,Abbotsford,Abbotsford,British Columbia,Colombie-Britannique,49.033333,-122.366666
+"Boundary Bay, British Columbia",CZBB,199,YDT,Control Tower,Tour de contrôle,1,Boundary Bay,Ladner,British Columbia,Colombie-Britannique,49.066666,-123.0
+"Calgary International, Alberta",CYYC,179,YYC,Control Tower,Tour de contrôle,1,Calgary International,Calgary,Alberta,Alberta,51.116666,-114.016666
+"Calgary/Springbank, Alberta",CYBW,14,,Control Tower,Tour de contrôle,1,Calgary/Springbank,Calgary,Alberta,Alberta,51.1,-114.366666
+"Chicoutimi/St-Honoré, Quebec",CYRC,3,,Control Tower,Tour de contrôle,1,Chicoutimi/St-Honore,Chicoutimi,Quebec,Québec,48.516666,-71.05
+"Edmonton City Centre, Alberta",CYXD,164,YXD,Control Tower,Tour de contrôle,1,Edmonton City Centre (Blatchford Field),Edmonton,Alberta,Alberta,53.566666,-113.516666
+"Edmonton International, Alberta",CYEG,43,YEG,Control Tower,Tour de contrôle,1,Edmonton Intl,Edmonton,Alberta,Alberta,53.316666,-113.583333
+"Edmonton/Villeneuve, Alberta",CZVL,16,,Control Tower,Tour de contrôle,1,Edmonton/Villeneuve,Saint Albert,Alberta,Alberta,53.666666,-113.85
+"Fort McMurray, Alberta",CYMM,87,YMM,Control Tower,Tour de contrôle,1,Fort McMurray,Fort McMurray,Alberta,Alberta,56.65,-111.216666
+"Fredericton International, New Brunswick",CYFC,49,YFC,Control Tower / Flight Service Station,Tour de contrôle / Station d'information de vol,3,Fredericton International,Fredericton,New Brunswick,Nouveau Brunswick,45.866666,-66.533333
+"Gander International, Newfoundland and Labrador",CYQX,121,YQX,Control Tower,Tour de contrôle,1,Gander International,Gander,Newfoundland and Labrador,Terre-Neuve-et-Labrador,48.933333,-54.566666
+"Halifax/Robert L. Stanfield International, Nova Scotia",CYHZ,71,YHZ,Control Tower,Tour de contrôle,1,Halifax Robert L. Stanfield International,Halifax,Nova Scotia,Nouvelle-Écosse,44.883333,-63.516666
+"Hamilton, Ontario",CYHM,67,YHM,Control Tower,Tour de contrôle,1,Hamilton,Hamilton,Ontario,Ontario,43.166666,-79.933333
+"Kelowna, British Columbia",CYLW,83,YLW,Control Tower,Tour de contrôle,1,Kelowna,Kelowna,British Columbia,Colombie-Britannique,49.95,-119.383333
+"Kitchener/Waterloo, Ontario",CYKF,78,YKF,Control Tower,Tour de contrôle,1,Kitchener/Waterloo,Waterloo,Ontario,Ontario,43.45,-80.383333
+"Langley, British Columbia",CYNJ,84,YLY,Control Tower,Tour de contrôle,1,Langley,Langley,British Columbia,Colombie-Britannique,49.1,-122.616666
+"London, Ontario",CYXU,175,YXU,Control Tower,Tour de contrôle,1,London,London,Ontario,Ontario,43.033333,-81.15
+"Moncton/Greater Moncton International, New Brunswick",CYQM,114,YQM,Control Tower,Tour de contrôle,1,Moncton/Greater Moncton International,Moncton,New Brunswick,Nouveau Brunswick,46.116666,-64.683333
+"Montréal/Mirabel International, Quebec",CYMX,90,YMX,Control Tower / Flight Service Station,Tour de contrôle / Station d'information de vol,3,Montreal (Mirabel),Mirabel,Quebec,Québec,45.683333,-74.033333
+"Montréal/Pierre Elliott Trudeau International, Quebec",CYUL,146,YUL,Control Tower,Tour de contrôle,1,Montréal-Pierre Elliott Trudeau International,Dorval,Quebec,Québec,45.466666,-73.733333
+"Montréal/St-Hubert, Quebec",CYHU,69,YHU,Control Tower,Tour de contrôle,1,Montréal/St-Hubert,Longueuil,Quebec,Québec,45.516666,-73.416666
+"North Bay, Ontario",CYYB,178,YYB,Flight Service Station,Station d'information de vol,2,North Bay,North Bay,Ontario,Ontario,46.366666,-79.416666
+"Oshawa, Ontario",CYOO,97,YOO,Control Tower,Tour de contrôle,1,Oshawa,Oshawa,Ontario,Ontario,43.916666,-78.9
+"Ottawa/Macdonald-Cartier International, Ontario",CYOW,98,YOW,Control Tower,Tour de contrôle,1,Ottawa/Macdonald-Cartier International,Ottawa,Ontario,Ontario,45.316666,-75.666666
+"Pitt Meadows, British Columbia",CYPK,102,YPK,Control Tower,Tour de contrôle,1,Pitt Meadows,Pitt Meadows,British Columbia,Colombie-Britannique,49.2,-122.7
+"Prince George, British Columbia",CYXS,173,YXS,Control Tower,Tour de contrôle,1,Prince George,Prince George,British Columbia,Colombie-Britannique,53.883333,-122.683333
+"Québec/Jean Lesage International, Quebec",CYQB,107,YQB,Control Tower,Tour de contrôle,1,Québec City Jean Lesage International Airport,Quebec City,Quebec,Québec,46.8,-71.4
+"Red Deer Regional, Alberta",CYQF,109,YQF,Flight Service Station,Station d'information de vol,2,Red Deer Regional,Red Deer,Alberta,Alberta,52.166666,-113.883333
+"Regina International, Saskatchewan",CYQR,117,YQR,Control Tower,Tour de contrôle,1,Regina International,Regina,Saskatchewan,Saskatchewan,50.433333,-104.666666
+"Saskatoon/John G. Diefenbaker International, Saskatchewan",CYXE,165,YXE,Control Tower,Tour de contrôle,1,Saskatoon John G. Diefenbaker International,Saskatoon,Saskatchewan,Saskatchewan,52.166666,-106.7
+"Sault Ste. Marie, Ontario",CYAM,19,YAM,Control Tower,Tour de contrôle,1,Sault Ste Marie,Sault Sainte Marie,Ontario,Ontario,46.483333,-84.516666
+"Sept-Îles, Quebec",CYZV,197,YZV,Flight Service Station,Station d'information de vol,2,Sept-Iles,Seven Islands,Quebec,Québec,50.216666,-66.266666
+"St-Jean, Quebec",CYJN,15,YJN,Control Tower,Tour de contrôle,1,St-Jean,Saint Jean,Quebec,Québec,45.283333,-73.266666
+"St. John's International, Newfoundland and Labrador",CYYT,188,YYT,Control Tower,Tour de contrôle,1,St John's Intl,Saint John,Newfoundland and Labrador,Terre-Neuve-et-Labrador,47.616666,-52.75
+"Sudbury, Ontario",CYSB,130,YSB,Flight Service Station,Station d'information de vol,2,Sudbury,Falconbridge,Ontario,Ontario,46.633333,-80.8
+"Thunder Bay, Ontario",CYQT,118,YQT,Control Tower,Tour de contrôle,1,Thunder Bay,Thunder Bay,Ontario,Ontario,48.366666,-89.316666
+"Toronto/Billy Bishop Toronto City, Ontario",CYTZ,144,YTZ,Control Tower,Tour de contrôle,1,Toronto City Centre,Toronto,Ontario,Ontario,43.627888,-79.396101
+"Toronto/Buttonville Municipal, Ontario",CYKZ,80,YKZ,Control Tower,Tour de contrôle,1,Toronto/Buttonville Municipal,Markham,Ontario,Ontario,43.866666,-79.366666
+"Toronto/Lester B. Pearson International, Ontario",CYYZ,191,YYZ,Control Tower,Tour de contrôle,1,Toronto Pearson International,Mississauga,Ontario,Ontario,43.683333,-79.633333
+"Vancouver Harbour, British Columbia",CYHC,4,CXH,Control Tower,Tour de contrôle,1,Vancouver Harbour,Vancouver,British Columbia,Colombie-Britannique,49.283333,-123.1
+"Vancouver International, British Columbia",CYVR,155,YVR,Control Tower,Tour de contrôle,1,Vancouver International,Richmond,British Columbia,Colombie-Britannique,49.2,-123.183333
+"Victoria International, British Columbia",CYYJ,185,YYJ,Control Tower,Tour de contrôle,1,Victoria International,Victoria,British Columbia,Colombie-Britannique,48.65,-123.433333
+"Whitehorse International, Yukon",CYXY,177,YXY,Control Tower,Tour de contrôle,1,Erik Nielsen Whitehorse,Whitehorse,Yukon,Yukon,60.716666,-135.066666
+"Windsor, Ontario",CYQG,110,YQG,Control Tower,Tour de contrôle,1,Windsor,Windsor,Ontario,Ontario,42.266666,-82.966666
+"Winnipeg/James Armstrong Richardson International, Manitoba",CYWG,157,YWG,Control Tower,Tour de contrôle,1,Winnipeg James Armstrong Richardson International,Winnipeg,Manitoba,Manitoba,49.916666,-97.25
+"Winnipeg/St. Andrews, Manitoba",CYAV,1,,Control Tower,Tour de contrôle,1,Winnipeg/St Andrews,Winnipeg,Manitoba,Manitoba,50.05,-97.016666
+"Yellowknife, Northwest Territories",CYZF,192,YZF,Control Tower,Tour de contrôle,1,Yellowknife,Yellowknife,Northwest Territories,Territoires du Nord-Ouest,62.466666,-114.433333
