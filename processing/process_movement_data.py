@@ -14,7 +14,7 @@ if __name__ == "__main__":
     movement_data = pd.read_csv(
         "../data/23100008.csv",
         dtype={
-            "TERMINATED": "str"                
+            "TERMINATED": "str"
         }
     )
 
