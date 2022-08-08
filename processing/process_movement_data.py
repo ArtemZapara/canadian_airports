@@ -19,4 +19,5 @@ if __name__ == "__main__":
     )
 
     movement_data = process_data(movement_data)
+    movement_data["Airports"] = movement_data["Airports"].str.replace("\n","")  # to handle the Red Deer Regional case
     movement_data.to_csv("../data/movement_data.csv", index=False)
