@@ -3,3 +3,6 @@
 
 # Ignore the raw CSV file with airport codes.
 /data/Airports_Aeroports.csv
+
+# Ignore the compiled bytecode
+*.pyc

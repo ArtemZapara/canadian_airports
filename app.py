@@ -1,3 +1,4 @@
+from re import U
 import streamlit as st
 from streamlit_folium import st_folium
 import folium
@@ -7,7 +8,9 @@ from pathlib import Path
 
 st.set_page_config(layout="wide")
 
-st.header("Aircraft movements in Canada")
+_, headcol, _ = st.columns([1,4,1])
+with headcol:
+    st.image("./data/header.png", use_column_width=True)
 
 movement_data = fetch_data(table = "movement_data")
 airport_data = fetch_data(table = "airport_icao_codes")
