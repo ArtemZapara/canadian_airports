@@ -16,12 +16,13 @@ movement_data = fetch_data(table = "movement_data")
 airport_data = fetch_data(table = "airport_icao_codes")
 
 page = st.sidebar.radio(
-    label = "",
+    label = "sidebarRadio",
     options=[
         "Historical data",
         "Ranking",
         "Glossary"
-    ]
+    ],
+    label_visibility="collapsed"
 )
 
 if page == "Historical data":
@@ -29,12 +30,13 @@ if page == "Historical data":
     _, _, _, radio_column = st.columns(4)
     with radio_column:
         radio = st.radio(
-            label="",
+            label="radio",
             options=[
                 "List",
                 "Map"
             ],
-            horizontal=True
+            horizontal=True,
+            label_visibility="collapsed"
         )
 
     if radio == "List":
