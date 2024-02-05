@@ -19,7 +19,7 @@ class Point:
         else:
             raise NotImplementedError(data.keys())
 
-@st.cache
+@st.cache_data
 def fetch_data(table):
     df = pd.read_csv(f"./data/{table}.csv")
     return df
